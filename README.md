@@ -1,4 +1,4 @@
-# Demand Forecasting & Early Warning Alert System
+# Demand Forecasting & Early Warning Alert System 
 
 ## Overview
 This project builds a demand forecasting system with a KPI-based early warning mechanism to detect forecast failures and trigger timely operational actions.
